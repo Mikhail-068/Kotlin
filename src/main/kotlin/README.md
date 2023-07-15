@@ -1,4 +1,5 @@
 # Лекция 1 --> «Синтаксис Kotlin»
+![img_3.png](img_3.png)
 (https://kotlinlang.ru/)
 ___
 
